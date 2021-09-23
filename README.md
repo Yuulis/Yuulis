@@ -1,4 +1,4 @@
-# Hello, here is Yuulis!
+# Hello, this is Yuulis!
 <p align="center">
   My web page↓
   <br>
